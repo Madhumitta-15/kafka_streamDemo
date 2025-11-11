@@ -5,15 +5,6 @@ It includes a Python **Producer** that publishes order events and a **Consumer (
 
 ---
 
-## 🧱 Project Structure
-
-streamstore/
-├── docker-compose.yaml
-├── producer.py
-└── tracker.py
-
----
-
 ## ⚙️ Requirements
 
 - **Docker** and **Docker Compose**
